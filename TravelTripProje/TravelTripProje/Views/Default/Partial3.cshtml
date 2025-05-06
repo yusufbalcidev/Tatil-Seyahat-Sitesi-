@@ -1,0 +1,15 @@
+﻿@using TravelTripProje.Models.Siniflar
+@model  List<Blog>
+@{int sayac = 1;}
+
+<div class="padding">
+    <h4>En Popüler 10 Blog</h4>
+    <ul class="list list-pad">
+        @foreach (var x in Model)
+        {
+            <li class="list-bg"><span>@sayac-</span><a href="/Blog/BlogDetay/@x.ID">@x.Baslik</a></li>
+            sayac++;
+        }
+    </ul>
+    <a href="/Blog/Index/" class="link1">Tüm Blogları Gör</a>
+</div>
