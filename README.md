@@ -28,7 +28,7 @@ Bu proje, ASP.NET MVC kullanılarak geliştirilmiş kapsamlı bir tatil ve seyah
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **Backend**: ASP.NET MVC 5
+- **Backend**: ASP.NET MVC 
 - **Programlama Dili**: C#
 - **Veritabanı**: SQL Server
 - **ORM**: Entity Framework (Code First yaklaşımı)
