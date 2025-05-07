@@ -72,20 +72,8 @@ Proje, Code First yaklaşımı kullanılarak aşağıdaki ana tablolarla yapıla
 
 5. Projeyi derleyin ve çalıştırın.
 
-## 📸 Ekran Görüntüleri
-
-### Ana Sayfa
-![Ana Sayfa](/screenshots/anasayfa.png)
-
-### Destinasyon Detay
-![Destinasyon Detay](/screenshots/destinasyon-detay.png)
-
-### Admin Paneli
-![Admin Paneli](/screenshots/admin-panel.png)
 
 ## 🔄 Proje Mimarisi
-
-Proje, N-Tier Architecture (Çok Katmanlı Mimari) prensiplerine göre tasarlanmıştır:
 
 - **Model**: Veritabanı tablolarını temsil eden sınıflar
 - **View**: Kullanıcı arayüzünü oluşturan Razor görünümleri
@@ -99,17 +87,11 @@ Proje, N-Tier Architecture (Çok Katmanlı Mimari) prensiplerine göre tasarlanm
 - Mobil uygulaması
 - Gerçek zamanlı bildirim sistemi
 - Sosyal medya entegrasyonu
-- Ödeme gateway entegrasyonu
 - Google Maps entegrasyonu
 
 ## 👨‍💻 Geliştirici
 
 Bu proje [Yusuf Balci](https://github.com/yusufbalcidev) tarafından geliştirilmiştir.
 
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
-
----
 
 ⭐ Bu projeyi beğendiyseniz, yıldız vermeyi unutmayın! ⭐
